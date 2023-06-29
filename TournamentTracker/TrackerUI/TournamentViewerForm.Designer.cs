@@ -54,7 +54,6 @@
             this.HeaderLabel.Size = new System.Drawing.Size(185, 40);
             this.HeaderLabel.TabIndex = 0;
             this.HeaderLabel.Text = "Tournament";
-            this.HeaderLabel.Click += new System.EventHandler(this.label1_Click);
             // 
             // TournamentName
             // 
@@ -139,7 +138,6 @@
             this.TeamTwoTextBox.Name = "TeamTwoTextBox";
             this.TeamTwoTextBox.Size = new System.Drawing.Size(100, 35);
             this.TeamTwoTextBox.TabIndex = 11;
-            this.TeamTwoTextBox.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // TeamTwoScore
             // 
@@ -150,7 +148,6 @@
             this.TeamTwoScore.Size = new System.Drawing.Size(67, 30);
             this.TeamTwoScore.TabIndex = 10;
             this.TeamTwoScore.Text = "Score";
-            this.TeamTwoScore.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // TeamTwoLable
             // 
@@ -161,7 +158,6 @@
             this.TeamTwoLable.Size = new System.Drawing.Size(136, 30);
             this.TeamTwoLable.TabIndex = 9;
             this.TeamTwoLable.Text = "<team two>";
-            this.TeamTwoLable.Click += new System.EventHandler(this.label2_Click);
             // 
             // VersusLabel
             // 
@@ -172,7 +168,6 @@
             this.VersusLabel.Size = new System.Drawing.Size(39, 30);
             this.VersusLabel.TabIndex = 12;
             this.VersusLabel.Text = "VS";
-            this.VersusLabel.Click += new System.EventHandler(this.label1_Click_2);
             // 
             // ScoreButton
             // 
