@@ -9,3 +9,6 @@ C:\Users\davit.vardzelyan\source\repos\TournamentTracker\TournamentTracker\Track
 C:\Users\davit.vardzelyan\source\repos\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
 C:\Users\davit.vardzelyan\source\repos\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
 C:\Users\davit.vardzelyan\source\repos\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTournamentForm.resources
+C:\Users\davit.vardzelyan\source\repos\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\davit.vardzelyan\source\repos\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+C:\Users\davit.vardzelyan\source\repos\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboard.resources
